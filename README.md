@@ -1,6 +1,6 @@
 Backend contracts/tests/scripts/deployment
 
-Create a decentralized NFT Marketplace
+- Create a decentralized NFT Marketplace
     1. `listItem`: List NFTs on marketplace
     2. `buyItem`: Buy NFT
     3. `cancelItem`: Cancel listing
